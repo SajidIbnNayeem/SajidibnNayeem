@@ -1,7 +1,8 @@
  # 👋 Hi, I’m Sajid Ibn Nayeem
-<a href="#"><img align="right" height=200 src="sin.svg"></a>
+<a href="#"><img align="right" height=150 src="sin.svg"></a>
 - I am a **Student**
 - I am from **Kashmir**
+  
 Dream: become a software engineer
 
 ### Connect with me:
